@@ -16,5 +16,5 @@ apache-tomcat --> Is the server that I used for the first tests. Inside the fold
 
 
 
-   -- startup.sh and shutdown.sh, the first is required to turn on the server and the second is needed to turn down the server.
+        -- startup.sh and shutdown.sh, the first is required to turn on the server and the second is needed to turn down the server.
 
