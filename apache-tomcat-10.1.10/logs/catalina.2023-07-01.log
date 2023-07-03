@@ -1,0 +1,235 @@
+01-Jul-2023 09:52:54.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/10.1.10
+01-Jul-2023 09:52:54.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Jun 2 2023 18:11:59 UTC
+01-Jul-2023 09:52:54.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     10.1.10.0
+01-Jul-2023 09:52:54.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Mac OS X
+01-Jul-2023 09:52:54.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      13.2
+01-Jul-2023 09:52:54.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      aarch64
+01-Jul-2023 09:52:54.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         /Library/Java/JavaVirtualMachines/jdk-11.0.17.jdk/Contents/Home
+01-Jul-2023 09:52:54.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       11.0.17+10-LTS-269
+01-Jul-2023 09:52:54.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+01-Jul-2023 09:52:54.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     /Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10
+01-Jul-2023 09:52:54.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     /Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10
+01-Jul-2023 09:52:54.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/conf/logging.properties
+01-Jul-2023 09:52:54.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Jul-2023 09:52:54.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+01-Jul-2023 09:52:54.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+01-Jul-2023 09:52:54.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+01-Jul-2023 09:52:54.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+01-Jul-2023 09:52:54.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+01-Jul-2023 09:52:54.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+01-Jul-2023 09:52:54.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+01-Jul-2023 09:52:54.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+01-Jul-2023 09:52:54.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10
+01-Jul-2023 09:52:54.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10
+01-Jul-2023 09:52:54.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/temp
+01-Jul-2023 09:52:54.551 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [/Users/adrian/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+01-Jul-2023 09:52:54.681 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+01-Jul-2023 09:52:54.721 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [345] milliseconds
+01-Jul-2023 09:52:54.744 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+01-Jul-2023 09:52:54.744 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+01-Jul-2023 09:52:54.748 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/docs] de la aplicación web
+01-Jul-2023 09:52:54.954 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/docs] has finished in [205] ms
+01-Jul-2023 09:52:54.954 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/manager] de la aplicación web
+01-Jul-2023 09:52:54.968 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/manager] has finished in [14] ms
+01-Jul-2023 09:52:54.969 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/examples] de la aplicación web
+01-Jul-2023 09:52:55.071 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/examples] has finished in [102] ms
+01-Jul-2023 09:52:55.071 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/ROOT] de la aplicación web
+01-Jul-2023 09:52:55.078 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/ROOT] has finished in [7] ms
+01-Jul-2023 09:52:55.079 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/host-manager] de la aplicación web
+01-Jul-2023 09:52:55.087 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/host-manager] has finished in [8] ms
+01-Jul-2023 09:52:55.091 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+01-Jul-2023 09:52:55.102 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [380] milliseconds
+01-Jul-2023 11:39:58.857 INFO [main] org.apache.catalina.core.StandardServer.await Se ha recibido un comando de apagado a través del puerto de apagado. Parando la instancia del Servidor.
+01-Jul-2023 11:39:58.858 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+01-Jul-2023 11:39:58.860 INFO [main] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+01-Jul-2023 11:39:58.873 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+01-Jul-2023 11:39:58.886 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+01-Jul-2023 11:46:33.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/10.1.10
+01-Jul-2023 11:46:33.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Jun 2 2023 18:11:59 UTC
+01-Jul-2023 11:46:33.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     10.1.10.0
+01-Jul-2023 11:46:33.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Mac OS X
+01-Jul-2023 11:46:33.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      13.2
+01-Jul-2023 11:46:33.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      aarch64
+01-Jul-2023 11:46:33.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         /Library/Java/JavaVirtualMachines/jdk-11.0.17.jdk/Contents/Home
+01-Jul-2023 11:46:33.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       11.0.17+10-LTS-269
+01-Jul-2023 11:46:33.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+01-Jul-2023 11:46:33.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     /Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10
+01-Jul-2023 11:46:33.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     /Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10
+01-Jul-2023 11:46:33.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/conf/logging.properties
+01-Jul-2023 11:46:33.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Jul-2023 11:46:33.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+01-Jul-2023 11:46:33.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+01-Jul-2023 11:46:33.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+01-Jul-2023 11:46:33.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+01-Jul-2023 11:46:33.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+01-Jul-2023 11:46:33.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+01-Jul-2023 11:46:33.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+01-Jul-2023 11:46:33.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+01-Jul-2023 11:46:33.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10
+01-Jul-2023 11:46:33.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10
+01-Jul-2023 11:46:33.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/temp
+01-Jul-2023 11:46:33.633 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [/Users/adrian/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+01-Jul-2023 11:46:33.753 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+01-Jul-2023 11:46:33.769 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [255] milliseconds
+01-Jul-2023 11:46:33.789 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+01-Jul-2023 11:46:33.789 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+01-Jul-2023 11:46:33.794 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/docs] de la aplicación web
+01-Jul-2023 11:46:33.950 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/docs] has finished in [155] ms
+01-Jul-2023 11:46:33.950 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/manager] de la aplicación web
+01-Jul-2023 11:46:33.965 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/manager] has finished in [15] ms
+01-Jul-2023 11:46:33.965 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/examples] de la aplicación web
+01-Jul-2023 11:46:34.059 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/examples] has finished in [94] ms
+01-Jul-2023 11:46:34.059 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/ROOT] de la aplicación web
+01-Jul-2023 11:46:34.067 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/ROOT] has finished in [8] ms
+01-Jul-2023 11:46:34.067 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/host-manager] de la aplicación web
+01-Jul-2023 11:46:34.075 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/host-manager] has finished in [7] ms
+01-Jul-2023 11:46:34.078 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+01-Jul-2023 11:46:34.087 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [317] milliseconds
+01-Jul-2023 11:52:56.225 INFO [main] org.apache.catalina.core.StandardServer.await Se ha recibido un comando de apagado a través del puerto de apagado. Parando la instancia del Servidor.
+01-Jul-2023 11:52:56.225 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+01-Jul-2023 11:52:56.227 INFO [main] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+01-Jul-2023 11:52:56.239 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+01-Jul-2023 11:52:56.256 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+01-Jul-2023 11:58:10.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/10.1.10
+01-Jul-2023 11:58:10.500 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Jun 2 2023 18:11:59 UTC
+01-Jul-2023 11:58:10.500 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     10.1.10.0
+01-Jul-2023 11:58:10.500 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Mac OS X
+01-Jul-2023 11:58:10.500 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      13.2
+01-Jul-2023 11:58:10.500 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      aarch64
+01-Jul-2023 11:58:10.500 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         /Library/Java/JavaVirtualMachines/jdk-11.0.17.jdk/Contents/Home
+01-Jul-2023 11:58:10.500 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       11.0.17+10-LTS-269
+01-Jul-2023 11:58:10.500 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+01-Jul-2023 11:58:10.500 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     /Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10
+01-Jul-2023 11:58:10.500 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     /Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10
+01-Jul-2023 11:58:10.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/conf/logging.properties
+01-Jul-2023 11:58:10.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Jul-2023 11:58:10.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+01-Jul-2023 11:58:10.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+01-Jul-2023 11:58:10.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+01-Jul-2023 11:58:10.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+01-Jul-2023 11:58:10.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+01-Jul-2023 11:58:10.508 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+01-Jul-2023 11:58:10.508 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+01-Jul-2023 11:58:10.508 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+01-Jul-2023 11:58:10.508 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10
+01-Jul-2023 11:58:10.508 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10
+01-Jul-2023 11:58:10.508 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/temp
+01-Jul-2023 11:58:10.512 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [/Users/adrian/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+01-Jul-2023 11:58:10.634 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+01-Jul-2023 11:58:10.650 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [253] milliseconds
+01-Jul-2023 11:58:10.669 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+01-Jul-2023 11:58:10.670 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+01-Jul-2023 11:58:10.674 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/docs] de la aplicación web
+01-Jul-2023 11:58:10.828 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/docs] has finished in [153] ms
+01-Jul-2023 11:58:10.828 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/manager] de la aplicación web
+01-Jul-2023 11:58:10.842 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/manager] has finished in [14] ms
+01-Jul-2023 11:58:10.843 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/examples] de la aplicación web
+01-Jul-2023 11:58:10.938 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/examples] has finished in [95] ms
+01-Jul-2023 11:58:10.939 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/ROOT] de la aplicación web
+01-Jul-2023 11:58:10.945 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/ROOT] has finished in [7] ms
+01-Jul-2023 11:58:10.945 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/host-manager] de la aplicación web
+01-Jul-2023 11:58:10.953 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/host-manager] has finished in [8] ms
+01-Jul-2023 11:58:10.956 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+01-Jul-2023 11:58:10.967 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [316] milliseconds
+01-Jul-2023 11:59:37.180 INFO [main] org.apache.catalina.core.StandardServer.await Se ha recibido un comando de apagado a través del puerto de apagado. Parando la instancia del Servidor.
+01-Jul-2023 11:59:37.181 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+01-Jul-2023 11:59:37.183 INFO [main] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+01-Jul-2023 11:59:37.193 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+01-Jul-2023 11:59:37.197 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+01-Jul-2023 12:55:55.844 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/10.1.10
+01-Jul-2023 12:55:55.845 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Jun 2 2023 18:11:59 UTC
+01-Jul-2023 12:55:55.846 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     10.1.10.0
+01-Jul-2023 12:55:55.846 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Mac OS X
+01-Jul-2023 12:55:55.846 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      13.2
+01-Jul-2023 12:55:55.846 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      aarch64
+01-Jul-2023 12:55:55.846 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         /Library/Java/JavaVirtualMachines/jdk-11.0.17.jdk/Contents/Home
+01-Jul-2023 12:55:55.846 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       11.0.17+10-LTS-269
+01-Jul-2023 12:55:55.846 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+01-Jul-2023 12:55:55.846 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     /Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10
+01-Jul-2023 12:55:55.846 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     /Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10
+01-Jul-2023 12:55:55.856 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=/Users/adrian/desktop/PruebaTecnica/apache-tomcat-10.1.10/conf/logging.properties
+01-Jul-2023 12:55:55.856 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Jul-2023 12:55:55.856 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+01-Jul-2023 12:55:55.856 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+01-Jul-2023 12:55:55.856 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+01-Jul-2023 12:55:55.857 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+01-Jul-2023 12:55:55.857 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+01-Jul-2023 12:55:55.857 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+01-Jul-2023 12:55:55.857 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+01-Jul-2023 12:55:55.857 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+01-Jul-2023 12:55:55.857 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=/Users/adrian/desktop/PruebaTecnica/apache-tomcat-10.1.10
+01-Jul-2023 12:55:55.857 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=/Users/adrian/desktop/PruebaTecnica/apache-tomcat-10.1.10
+01-Jul-2023 12:55:55.857 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=/Users/adrian/desktop/PruebaTecnica/apache-tomcat-10.1.10/temp
+01-Jul-2023 12:55:55.861 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [/Users/adrian/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+01-Jul-2023 12:55:55.994 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+01-Jul-2023 12:55:56.015 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [291] milliseconds
+01-Jul-2023 12:55:56.039 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+01-Jul-2023 12:55:56.039 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+01-Jul-2023 12:55:56.045 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/docs] de la aplicación web
+01-Jul-2023 12:55:56.216 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/docs] has finished in [169] ms
+01-Jul-2023 12:55:56.216 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/manager] de la aplicación web
+01-Jul-2023 12:55:56.231 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/manager] has finished in [15] ms
+01-Jul-2023 12:55:56.231 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/examples] de la aplicación web
+01-Jul-2023 12:55:56.337 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/examples] has finished in [106] ms
+01-Jul-2023 12:55:56.337 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/ROOT] de la aplicación web
+01-Jul-2023 12:55:56.344 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/ROOT] has finished in [7] ms
+01-Jul-2023 12:55:56.344 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/host-manager] de la aplicación web
+01-Jul-2023 12:55:56.352 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/host-manager] has finished in [8] ms
+01-Jul-2023 12:55:56.355 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+01-Jul-2023 12:55:56.361 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [346] milliseconds
+01-Jul-2023 13:15:36.648 INFO [main] org.apache.catalina.core.StandardServer.await Se ha recibido un comando de apagado a través del puerto de apagado. Parando la instancia del Servidor.
+01-Jul-2023 13:15:36.649 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+01-Jul-2023 13:15:36.651 INFO [main] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+01-Jul-2023 13:15:36.666 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+01-Jul-2023 13:15:36.679 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+01-Jul-2023 13:15:50.727 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/10.1.10
+01-Jul-2023 13:15:50.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Jun 2 2023 18:11:59 UTC
+01-Jul-2023 13:15:50.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     10.1.10.0
+01-Jul-2023 13:15:50.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Mac OS X
+01-Jul-2023 13:15:50.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      13.2
+01-Jul-2023 13:15:50.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      aarch64
+01-Jul-2023 13:15:50.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         /Library/Java/JavaVirtualMachines/jdk-11.0.17.jdk/Contents/Home
+01-Jul-2023 13:15:50.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       11.0.17+10-LTS-269
+01-Jul-2023 13:15:50.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+01-Jul-2023 13:15:50.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     /Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10
+01-Jul-2023 13:15:50.729 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     /Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10
+01-Jul-2023 13:15:50.736 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=/Users/adrian/desktop/PruebaTecnica/apache-tomcat-10.1.10/conf/logging.properties
+01-Jul-2023 13:15:50.736 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Jul-2023 13:15:50.737 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+01-Jul-2023 13:15:50.737 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+01-Jul-2023 13:15:50.737 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+01-Jul-2023 13:15:50.737 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+01-Jul-2023 13:15:50.737 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+01-Jul-2023 13:15:50.737 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+01-Jul-2023 13:15:50.737 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+01-Jul-2023 13:15:50.737 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+01-Jul-2023 13:15:50.737 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=/Users/adrian/desktop/PruebaTecnica/apache-tomcat-10.1.10
+01-Jul-2023 13:15:50.737 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=/Users/adrian/desktop/PruebaTecnica/apache-tomcat-10.1.10
+01-Jul-2023 13:15:50.737 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=/Users/adrian/desktop/PruebaTecnica/apache-tomcat-10.1.10/temp
+01-Jul-2023 13:15:50.741 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [/Users/adrian/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+01-Jul-2023 13:15:50.867 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+01-Jul-2023 13:15:50.884 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [261] milliseconds
+01-Jul-2023 13:15:50.905 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+01-Jul-2023 13:15:50.905 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.10]
+01-Jul-2023 13:15:50.909 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/docs] de la aplicación web
+01-Jul-2023 13:15:51.063 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/docs] has finished in [152] ms
+01-Jul-2023 13:15:51.063 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/manager] de la aplicación web
+01-Jul-2023 13:15:51.078 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/manager] has finished in [15] ms
+01-Jul-2023 13:15:51.078 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/examples] de la aplicación web
+01-Jul-2023 13:15:51.175 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/examples] has finished in [97] ms
+01-Jul-2023 13:15:51.175 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/ROOT] de la aplicación web
+01-Jul-2023 13:15:51.182 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/ROOT] has finished in [7] ms
+01-Jul-2023 13:15:51.183 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/host-manager] de la aplicación web
+01-Jul-2023 13:15:51.190 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/adrian/Desktop/PruebaTecnica/apache-tomcat-10.1.10/webapps/host-manager] has finished in [7] ms
+01-Jul-2023 13:15:51.194 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+01-Jul-2023 13:15:51.201 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [316] milliseconds
+01-Jul-2023 14:11:43.074 INFO [main] org.apache.catalina.core.StandardServer.await Se ha recibido un comando de apagado a través del puerto de apagado. Parando la instancia del Servidor.
+01-Jul-2023 14:11:43.074 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+01-Jul-2023 14:11:43.076 INFO [main] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+01-Jul-2023 14:11:43.087 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+01-Jul-2023 14:11:43.091 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
