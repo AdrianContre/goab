@@ -33,7 +33,7 @@ func httpRequest(url string, k bool) {
 		client.Transport = transport
 	}
 
-	resp, err := client.Get(url) // solicitud HTTP to URL,don't take care of the response because we only launch a request
+	resp, err := client.Get(url) //request HTTP to URL,don't take care of the response because we only launch a request
 	if err != nil {
 		log.Printf("Error making the request %s", err)
 		atomic.AddInt64(&totalErrors, 1) //increment atomitically the errors
