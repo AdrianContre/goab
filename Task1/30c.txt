@@ -1,0 +1,43 @@
+This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking MacBook-Pro-de-Adrian.local (be patient)
+
+
+Server Software:        
+Server Hostname:        MacBook-Pro-de-Adrian.local
+Server Port:            8080
+
+Document Path:          /
+Document Length:        11217 bytes
+
+Concurrency Level:      30
+Time taken for tests:   0.573 seconds
+Complete requests:      10000
+Failed requests:        0
+Keep-Alive requests:    0
+Total transferred:      113290000 bytes
+HTML transferred:       112170000 bytes
+Requests per second:    17439.44 [#/sec] (mean)
+Time per request:       1.720 [ms] (mean)
+Time per request:       0.057 [ms] (mean, across all concurrent requests)
+Transfer rate:          192940.80 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    1   0.3      1       4
+Processing:     1    1   0.3      1       6
+Waiting:        0    1   0.3      1       4
+Total:          1    2   0.5      2       7
+
+Percentage of the requests served within a certain time (ms)
+  50%      2
+  66%      2
+  75%      2
+  80%      2
+  90%      2
+  95%      2
+  98%      3
+  99%      4
+ 100%      7 (longest request)
